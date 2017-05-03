@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/grua.dir/main.cpp.o  -o grua -rdynamic -lGLU -lGL -lSM -lICE -lX11 -lXext -lglut -lXmu -lXi 
